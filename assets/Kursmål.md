@@ -27,9 +27,9 @@ och grafiska, dektop- eller mobila-applikationer
 JSON-fil
 ## Väl godkänt (VG)
 Den studerande har nått samtliga mål för kursen. Den studerande kan dessutom:
-• Självständigt och med säkerhet skapa skalbara applikationer som är enkla att
+* Självständigt och med säkerhet skapa skalbara applikationer som är enkla att
 underhålla och utveckla vidare
-• Självständigt och med säkerhet skapa applikationer som kommunicerar med externa
+* Självständigt och med säkerhet skapa applikationer som kommunicerar med externa
 API:er för att hämta och skicka information
-• Självständigt och med säkerhet hantera och fixa buggar så att dessa inte påverkar
+* Självständigt och med säkerhet hantera och fixa buggar så att dessa inte påverkar
 lösningen negativt
