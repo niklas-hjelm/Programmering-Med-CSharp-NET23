@@ -17,7 +17,7 @@
 12. Nästa steg är att ändra texten **"Hello World!"** till **"Hello! My name is** *Ditt namn*.**"**.
 13. Nu är det dags att påbörja inlämningnen.
 14. Det finns flera vägar att ta för att pusha sitt arbete till GitHub. Jag kommer att beskriva ett sätt nu men välj ett annat du redan kan om du vill.
-15. Välj **Git Changes**, fyll i ett meddelande, tryck på **Commit All**:</br> ![changes](./images/commit.png)
+15. Välj **Git Changes**, fyll i ett meddelande, tryck på **Commit All**:</br> ![changes](./images/gitChanges.png)
     1. Tryck på **"Push"**: </br>![push](./images/push.png)
 16. Nu är ditt repository på **GitHub** uppdaterat:</br> ![*updated*](./images/updated.png)
     1. Om du inte ser din projektmapp som bilden ovan så skriv till mig på Discord.
