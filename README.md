@@ -41,7 +41,3 @@
 
 ## Övriga resurser
 * Guide för [private repo](./assets/SetupPrivateRep.md)
-
-## Repon från genomgångar
-* [OOP](https://github.com/niklas-hjelm/DemoPoly)
-* [OOP](https://github.com/niklas-hjelm/DemoPoly)
