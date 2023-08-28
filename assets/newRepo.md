@@ -5,6 +5,6 @@
 3. Direkt på vänster sida finns en knapp enligt bilden nedan.
    ![new](./images/newRepo1.png)
 4. Därefter fyll i de markerade fälten och tryck på **"Create repository"** enligt bilden nedan.
-   ![new2](./images/newrepo2.png)
+   ![new2](./images/newRepo2.png)
 
 ## Klart
