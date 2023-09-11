@@ -49,3 +49,6 @@
 * [Math och Random](./assets/slides/MathOchRandom.pdf)
 * [OOP intro](./assets/slides/OOP%20Intro.pdf)
 ### Livekod
+
+* [Villkor och loopar](https://github.com/niklas-hjelm/LiveVilkorOchLoopar2023)
+* [Metoder](https://github.com/niklas-hjelm/LivekodMetoder)
