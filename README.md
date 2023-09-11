@@ -40,4 +40,12 @@
 * [Info Tenta](./assets/InfoTenta.md)
 
 ## Övriga resurser
+### Guider
 * Guide för [private repo](./assets/SetupPrivateRep.md)
+
+### Slides
+* [Grunder](./assets/slides/Presentation%20Grunder.pdf)
+* [Problemlösning och Metoder](./assets/slides/Presentation%20Grunder.pdf)
+* [Math och Random](./assets/slides/MathOchRandom.pdf)
+* [OOP intro](./assets/slides/OOP%20Intro.pdf)
+### Livekod
