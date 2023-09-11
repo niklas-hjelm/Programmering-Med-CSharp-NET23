@@ -40,6 +40,8 @@
 * [Info Tenta](./assets/InfoTenta.md)
 
 ## Övriga resurser
+###
+* [Gruppövning Dice Game](https://github.com/niklas-hjelm/DiceGame)
 ### Guider
 * Guide för [private repo](./assets/SetupPrivateRep.md)
 
