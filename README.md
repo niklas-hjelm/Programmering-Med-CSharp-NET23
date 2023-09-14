@@ -50,6 +50,7 @@
 * [Problemlösning och Metoder](./assets/slides/Presentation%20Grunder.pdf)
 * [Math och Random](./assets/slides/MathOchRandom.pdf)
 * [OOP intro](./assets/slides/OOP%20Intro.pdf)
+* [OOP Allt](./assets/slides/OOPAllt.pdf)
 ### Livekod
 
 * [Villkor och loopar](https://github.com/niklas-hjelm/LiveVilkorOchLoopar2023)
