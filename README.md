@@ -43,7 +43,7 @@
 ###
 * [Gruppövning Dice Game](https://github.com/niklas-hjelm/DiceGame)
 ### Guider
-* Guide för [private repo](./assets/SetupPrivateRep.md)
+* Guide för [private repo](https://github.com/niklas-hjelm/Programmering-med-C-Sharp-NET22/blob/master/assets/SetupPrivateRep.md)
 
 ### Slides
 * [Grunder](./assets/slides/Presentation%20Grunder.pdf)
