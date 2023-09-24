@@ -17,7 +17,6 @@
 ### [Vecka 38](./assets/V38.md) OOP forts
 
 ### [Vecka 39](./assets/V39.md) OOP Advanced
-
 ### [Vecka 40](./assets/V40.md) Grafiska Applikationer
 
 ### [Vecka 41](./assets/V41.md) Grafiska Applikationer forts
