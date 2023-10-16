@@ -58,3 +58,6 @@
 * [DemoInterfaces](https://github.com/niklas-hjelm/DemoInterfaces)
 * [DemoKomposition](https://github.com/niklas-hjelm/DemoKomposition)
 * [DemoLINQ](https://github.com/niklas-hjelm/LINQDemo)
+* [Delegat](https://github.com/niklas-hjelm/Delegates)
+* [Event och Asynkron](https://github.com/niklas-hjelm/NiklasCafe)
+* [WPF Intro](https://github.com/niklas-hjelm/MinF-rstaApp)
