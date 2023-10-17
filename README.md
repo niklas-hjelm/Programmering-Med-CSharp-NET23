@@ -50,6 +50,7 @@
 * [Math och Random](./assets/slides/MathOchRandom.pdf)
 * [OOP intro](./assets/slides/OOP%20Intro.pdf)
 * [OOP Allt](./assets/slides/OOPAllt.pdf)
+* [WPF Intro](./assets/slides/Intro%20WPF.pdf)
 ### Livekod
 
 * [Villkor och loopar](https://github.com/niklas-hjelm/LiveVilkorOchLoopar2023)
