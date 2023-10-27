@@ -33,7 +33,7 @@
 * [Övningsuppgifter](./assets/%C3%B6vningar.md)
 * [Read Write File-Övningar](./assets/ReadWriteÖvning.md)
 * [TextEditor](./assets/wpfExerciseTextEditor.md)
-* [Calculator](./assets/wpfExerciseCalculator.md)
+* [Calculator](./assets/wpfExercisesCalculator.md)
 * [Combined TextEditor and Calculator](./assets/wpfExerciseCombined.md)
 
 ## Labbar
