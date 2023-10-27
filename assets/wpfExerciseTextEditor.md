@@ -182,7 +182,3 @@ By the end of these 10 exercises, the learner will have created a simple text ed
 
 1. Add a `ComboBox` at the top and populate it with two items: "Light" and "Dark".
 2. Handle its `SelectionChanged` event. Based on the selected item, adjust the `Background` and `Foreground` properties of the MainWindow and its controls to achieve the desired theme.
-
----
-
-These are the basic instructions for the exercises you provided. Implementing the functionality may require additional code, adjustments, and error handling. The provided instructions are to give a straightforward path to achieving the described functionalities.
