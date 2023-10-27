@@ -97,8 +97,6 @@
 1. Add a ComboBox at the top with two items: Light and Dark.
 2. Implement functionality to switch between the light and dark themes for the entire window based on the selected item in the ComboBox.
 
-By the end of these 10 exercises, the learner will have created a simple text editor with basic functionalities like saving, loading, clearing, changing font size, applying text formats, displaying character count, and switching themes.
-
 
 ## Solution:
 
