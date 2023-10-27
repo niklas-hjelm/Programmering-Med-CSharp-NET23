@@ -30,7 +30,11 @@
 ### [Vecka 45](./assets/V45.md) Buffert och Tenta
 
 ## Extra övning
-[Övningsuppgifter](./assets/%C3%B6vningar.md)
+* [Övningsuppgifter](./assets/%C3%B6vningar.md)
+* [Read Write File-Övningar](./assets/ReadWriteÖvning.md)
+* [TextEditor](./assets/wpfExerciseTextEditor.md)
+* [Calculator](./assets/wpfExerciseCalculator.md)
+* [Combined TextEditor and Calculator](./assets/wpfExerciseCombined.md)
 
 ## Labbar
 * [Labb 1](./assets/Labb%201.md)
