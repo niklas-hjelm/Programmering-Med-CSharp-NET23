@@ -127,9 +127,7 @@
 
 **Task:**
 1. Adjust the colors, fonts, and margins/paddings to make the calculator more visually appealing.
-2. Ensure buttons have a consistent style and that the
-
- layout is clear and understandable.
+2. Ensure buttons have a consistent style and that the layout is clear and understandable.
 
 **Solution:**
 1. In `MainWindow.xaml`, adjust the properties for each control to set colors, fonts, and spacings. For example, set `Button Background="LightGray"`, `Button Margin="5"`, and `Button FontSize="20"`.
