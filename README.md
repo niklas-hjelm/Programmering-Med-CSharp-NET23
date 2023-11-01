@@ -66,3 +66,6 @@
 * [Delegat](https://github.com/niklas-hjelm/Delegates)
 * [Event och Asynkron](https://github.com/niklas-hjelm/NiklasCafe)
 * [WPF Intro](https://github.com/niklas-hjelm/MinF-rstaApp)
+* [JSON för abstrakta klasser](https://github.com/niklas-hjelm/JsonDemo)
+* [WPF Flera Vyer]([https://](https://github.com/niklas-hjelm/WPFFleraVyer))
+* [Mvvm](https://github.com/niklas-hjelm/MVVMLiveDemo)
